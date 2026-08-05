@@ -1,7 +1,7 @@
 DRC by Tanner Research's L-Edit Version 8.30
 File:	C:\Users\sagha\Documents\VLSI\Project\VLSI-RCA4-Layout\ledit\final\RCA4_LAYOUT.tdb
-Cell:	FA_X1
-Date:	Thu Aug 06 00:00:04 2026
+Cell:	RCA4
+Date:	Thu Aug 06 00:24:09 2026
 
 
 
@@ -10,7 +10,7 @@ Date:	Thu Aug 06 00:00:04 2026
 
 
 Select layer generation elapsed time: 00:00:00 (0.00%).
-Merge/Boolean layer generation elapsed time: 00:00:00 (0.00%).
-DRC rule checking elapsed time: 00:00:00 (0.00%).
+Merge/Boolean layer generation elapsed time: 00:00:01 (33.33%).
+DRC rule checking elapsed time: 00:00:01 (33.33%).
 
-Total DRC elapsed time: 00:00:01.
+Total DRC elapsed time: 00:00:03.
